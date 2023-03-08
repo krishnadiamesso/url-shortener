@@ -12,6 +12,10 @@ This app is a url shortener. Provide your url and it will return a short code of
 * There should also be a link on that page to a page to see the amount of times the link has been clicked
 * Finally, visiting the shortened link should increment the number of time the link has been clicked, and redirect to the long version of the link.
 
+## Live Link
+[https://url-shortener-app-091.herokuapp.com/](https://url-shortener-app-091.herokuapp.com/)
+
+
 ## Screenshots & Demo
 ### Demo
 ![Demo](./public/url_shortener_1.gif)
